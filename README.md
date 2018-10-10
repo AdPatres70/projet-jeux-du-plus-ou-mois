@@ -1,2 +1,2 @@
-# projet-jeux-du-plus-ou-mois
-jeux plus ou mois
+# projet-jeux-du-plus-ou-moins
+jeux plus ou moins
